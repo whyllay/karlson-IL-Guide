@@ -18,6 +18,4 @@
 
 
 
-## Seting up
-
-- [Instalation](https://github.com/whyllay/karlson-IL-Guide/wiki/Setting-up-the-game)
+## [Instalation and Creating your own Levels](https://github.com/whyllay/karlson-IL-Guide/wiki)
