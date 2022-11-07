@@ -7,4 +7,6 @@
 
 ## Requirements
 
-> [Level Importer](https://github.com/Jor02/KarlsonLevelImporter) by [Jor2](https://github.com/Jor02)
+> [Level Importer](https://github.com/Jor02/KarlsonLevelImporter) by Jor2
+> Unity 2019.2.6 : [Download here](https://unity3d.com/get-unity/download/archive)
+
