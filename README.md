@@ -18,4 +18,6 @@
 
 
 
-## [Instalation](https://github.com/whyllay/karlson-IL-Guide/wiki/Instalation)
+## Seting up
+
+- [Instalation](https://github.com/whyllay/karlson-IL-Guide/wiki/Instalation)
