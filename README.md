@@ -20,4 +20,4 @@
 
 ## Seting up
 
-- [Instalation](https://github.com/whyllay/karlson-IL-Guide/wiki/Instalation)
+- [Instalation](https://github.com/whyllay/karlson-IL-Guide/wiki/Setting-up-the-game)
