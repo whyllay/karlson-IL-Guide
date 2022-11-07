@@ -16,4 +16,4 @@
 
 - [BepInEx 64x](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21)
 
--[Project File](https://github.com/whyllay/karlson-IL-Guide/blob/main/required%20files/TemplateProject.zip?raw=true)
+- [Project File](https://github.com/whyllay/karlson-IL-Guide/blob/main/assets/TemplateProject.zip?raw=true)
