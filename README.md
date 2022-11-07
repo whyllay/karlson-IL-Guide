@@ -8,7 +8,7 @@
 ##
 
 
-## Required Installments
+## Resources
 
 - [Level Importer & Unity Package ](https://github.com/Jor02/KarlsonLevelImporter/releases/) by Jor2
 
@@ -16,5 +16,4 @@
 
 - [BepInEx 64x](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21)
 
-- hi
-
+-[Project File](https://github.com/whyllay/karlson-IL-Guide/blob/main/required%20files/TemplateProject.zip?raw=true)
