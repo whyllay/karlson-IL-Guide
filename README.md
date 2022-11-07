@@ -4,3 +4,7 @@
 
 
  A guide for anyone who wants to create, import, and play custom karlson maps.
+
+## Requirements
+
+> [Level Importer](https://github.com/Jor02/KarlsonLevelImporter) by [Jor2](https://github.com/Jor02)
