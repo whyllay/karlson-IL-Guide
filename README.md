@@ -4,6 +4,10 @@
 
 
  A guide for anyone who wants to create, import, and play custom karlson maps.
+ 
+ ### Important to note.
+ 
+ > This is still a work in progress, if you found a misconception, wrong fact or want to give a clearer explanation on any part of the guide, let me know!
 
 
 ## Resources
