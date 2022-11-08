@@ -41,9 +41,10 @@ This is required due to a unity bug, sorry for the inconvenience.
 
 
 
-## [The fun part.](https://github.com/whyllay/karlson-IL-Guide/wiki)
+## Importing & Creating Levels
 
 Let's get you started on how to play and make karlson levels!
+Below you will see 2 links, click the one of your choosing for your specified usage.
 
-- [Setting up the game](https://github.com/whyllay/karlson-IL-Guide/wiki/Setting-up-the-game)
-- [Making your own Levels](https://github.com/whyllay/karlson-IL-Guide/wiki/Making-your-own-Levels)
+- [Installing the Mod](https://github.com/whyllay/karlson-IL-Guide/wiki/Setting-up-the-game)
+- [Making your own Levels](https://github.com/whyllay/karlson-IL-Guide/wiki)
