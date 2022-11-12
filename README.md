@@ -1,4 +1,4 @@
-# karlson Import/Create Level Guide
+# karlson Level Importer Mod / Level Creation Guide
 
 ![v1](https://github.com/whyllay/karlson-IL-Guide/blob/main/web/assets/1.gif)
 
