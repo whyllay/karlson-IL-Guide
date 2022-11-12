@@ -35,7 +35,7 @@ Unity does not like being messed around with on higher version when created in a
 
 ###
 
-- [Project File](https://github.com/whyllay/karlson-IL-Guide/blob/main/assets/TemplateProject.zip?raw=true) by Jor2
+- [Project File](https://github.com/whyllay/karlson-IL-Guide/blob/main/files/TemplateProject.zip?raw=true) by Jor2
 
 This is required due to a unity bug, sorry for the inconvenience.
 
