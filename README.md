@@ -23,9 +23,9 @@ This is what we will use to import the level and create our own with it's unity 
 
 ###
 
-- [Unity **2019.2.6**](https://unity3d.com/get-unity/download/archive) (
+- [Unity **2019.2.6**](https://unity3d.com/get-unity/download/archive) 
 
-Unity does not like being messed around with on higher version when created in a previous one, such why this is required. (I can't link it directly to the version, so you might need to search for it.)
+Unity does not like being messed around with on higher version when created in a previous one, such why this is required. (I can't link it directly to the version, so you might need to search for it.
 
 ###
 
