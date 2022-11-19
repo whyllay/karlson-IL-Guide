@@ -47,4 +47,4 @@ Let's get you started on how to play and make karlson levels!
 Below you will see 2 links, click the one of your choosing for your specified usage.
 
 - [Installing the Mod](https://github.com/whyllay/karlson-IL-Guide/wiki/Installing-the-Mod)
-- [Making your own Levels](https://github.com/whyllay/karlson-IL-Guide/wiki)
+- [Making your own Levels](https://github.com/whyllay/karlson-IL-Guide/wiki/Making-your-own-Levels)
